@@ -5,7 +5,7 @@ Udacity nanodegree "Data scientist", project 3 ("Recommendations for IBM Watson 
 ### Summary
 
 This project contains an analysis of user interactions with articles published on the IBM Watson Studio platform. 
-After a short exploratory analysis of the data about user-article-interactions and some data cleaning, different methods are developed to make recommendations for further articles to uses (based on the dataset).
+After a short exploratory analysis of the data about user-article-interactions and some data cleaning, different methods are developed to make recommendations for further articles to users (based on the dataset).
 
 Different recommendation methods:
 * Rank-based recommendations: Recommendations purely based on the overall reading statistics per article
